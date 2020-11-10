@@ -1,0 +1,1 @@
+Shows.objects.create(title ='Stranger things', network = 'Netflix', release_date='', desc = 'default desc') 
